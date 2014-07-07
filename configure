@@ -86,3 +86,4 @@ echo CFLAGS: ${CFLAGS}
 echo LDFLAGS: ${LDFLAGS}
 
 echo "Configure successful. You may now build with 'make'"
+echo "test"
